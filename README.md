@@ -1,7 +1,7 @@
 Template React - Typescript
 ============
 
-[TOOLS]
+Tools
 
 **Prettier**
 **Eslint**
